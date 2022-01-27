@@ -1,0 +1,4 @@
+﻿  3 sem lab 8.cpp
+C:\Users\user\source\repos\3 sem lab 8\3 sem lab 8\3 sem lab 8.cpp(156,25): warning C4099: Stack: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\user\source\repos\3 sem lab 8\3 sem lab 8\3 sem lab 8.cpp(7): message : см. объявление "Stack"
+  3 sem lab 8.vcxproj -> C:\Users\user\source\repos\3 sem lab 8\Debug\3 sem lab 8.exe
